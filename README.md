@@ -30,3 +30,6 @@ This chunk is looking for zero or one instance of a dash or space symbol, follow
 
 ### `[-\s]{0,1}\d{4}$`
 This chunk of the regex is looking for zero or one instance of a dash or space symbol, followed by four numbers at the end of the string.
+
+----
+Created as a submission for the [freeCodeCamp.org Telephone Number Validator Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator) toward the JavaScript Algorithms and Data Structures certificate.
